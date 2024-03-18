@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:\Users\thiago">
+        <classes>
+            <class name="tests.TC01_Criar_Nova_Conta">
+                <methods>
+                    <include name="registration"/>
+                </methods>
+            </class>
+            <class name="tests.TC02_Login_E_Compra">
+                <methods>
+                    <include name="loginEcompra"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
