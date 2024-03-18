@@ -3,31 +3,6 @@
 
 ## Arquitura das Pastas
 
-📦src   
- ┗ 📂test   
- ┃ ┣ 📂java   
- ┃ ┃ ┗ 📂Driver   
- ┃ ┃ ┃ ┃📜BaseDriver.java 
- ┃ ┃ ┃ ┃📜PageDriver.java    
- ┃ ┃ ┗ 📂Datas   
- ┃ ┃ ┃ ┃📜DataSet.java
- ┃ ┃ ┗ 📂Pages   
- ┃ ┃ ┃ ┃📜cartPage.java
- ┃ ┃ ┃ ┃📜checkoutPage.java 
- ┃ ┃ ┃ ┃📜createAnAccountPage.java 
- ┃ ┃ ┃ ┃📜homePage.java 
- ┃ ┃ ┃ ┃📜myAccountPage.java   
- ┃ ┃ ┃ ┗📜signInPage.java   
- ┃ ┃ ┃ ┗📜tshirtsPage.java 
- ┃ ┃ ┗ 📂Util   
- ┃ ┃ ┃ ┃📜commonMethods.java
- ┃ ┃ ┃ ┗📜Take_ScreenShot.java  
- ┃ ┃ ┗ 📂Tests   
- ┃ ┃ ┃ ┃📜TC01_Criar_Nova_Conta.java
- ┃ ┃ ┃ ┗📜TC02_Login_E_Compra.java  
- ┃ ┃   
- ┃ ┗ README.md 
- ┗ .gitignore
 ![image](https://github.com/calheirosQA/DesafioTecnico/assets/69566568/f78320a3-3037-4b66-a8d7-150c2c47e038)
 
 
