@@ -10,16 +10,16 @@
 ```java
     Projeto está configurado para rodar no Google Chrome browser. 
      -> Se quiser mudar de navegador, terá que mudar no ┃📜BaseDriver
-     (Lines 27, 28 and 30)  
+      
 ```
 ## Como Executar:
 ```java
     Acessar o diretorio (Raiz) e pelo terminal executar: ->>> mvn clean test <<<-
      -> Ou Abra o projeto pela IDE e execute o 📜TC01_Criar_Nova_Conta.java ou 📜TC02_Login_E_Compra.java diretamente.
 ```
-## Relatório de execução:
+## Relatório de execução(Allure):
 ```java
-    Se você quiser consultar os relatórios de teste será necessário executar o commando  ->>> allure serve <<<-
+    Se você quiser consultar os relatórios dos testes será necessário executar o commando  ->>> allure serve <<<-
      
 ```
 
