@@ -28,3 +28,7 @@
 - [Java-OpenJDK 17.0.2](https://www.java.com/pt-BR/)
 - [Selenium](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/4.8.0)
 - [Webdrivermanager](https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager/5.3.2)# Desafio-QA-DTI
+
+## Video
+- https://drive.google.com/file/d/1kD0m0s6-lg71JmPvo8pasbWwdhTahlbp/view?usp=sharing
+
