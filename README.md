@@ -28,6 +28,7 @@
  ┃ ┃   
  ┃ ┗ README.md 
  ┗ .gitignore
+![image](https://github.com/calheirosQA/DesafioTecnico/assets/69566568/f78320a3-3037-4b66-a8d7-150c2c47e038)
 
 
 ## Atenção!
